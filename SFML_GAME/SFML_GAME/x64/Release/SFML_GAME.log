@@ -1,35 +1,142 @@
 ﻿  main.cpp
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(90,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(91,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(95,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(96,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(118,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(120,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(121,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(125,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(126,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(157,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(158,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(162,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(163,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(254,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(255,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(259,58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(260,58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(529,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(540,31): warning C4834: discarding return value of function with [[nodiscard]] attribute
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(542,35): warning C4305: 'argument': truncation from 'double' to 'T'
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(542,35): warning C4305:         with
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(542,35): warning C4305:         [
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(542,35): warning C4305:             T=float
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(542,35): warning C4305:         ]
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(542,31): warning C4305: 'argument': truncation from 'double' to 'T'
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(542,31): warning C4305:         with
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(542,31): warning C4305:         [
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(542,31): warning C4305:             T=float
-C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(542,31): warning C4305:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(153,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(154,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(158,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(159,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(193,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(194,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(198,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(199,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(204,58): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(204,58): warning C4305:         with
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(204,58): warning C4305:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(204,58): warning C4305:             T=float
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(204,58): warning C4305:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(204,53): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(204,53): warning C4305:         with
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(204,53): warning C4305:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(204,53): warning C4305:             T=float
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(204,53): warning C4305:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,137): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,137): warning C4244:         with
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,137): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,137): warning C4244:             T=unsigned int
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,137): warning C4244:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,137): warning C4244:         and
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,137): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,137): warning C4244:             T=float
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,137): warning C4244:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,93): warning C4244:         with
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,93): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,93): warning C4244:             T=unsigned int
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,93): warning C4244:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,93): warning C4244:         and
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,93): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,93): warning C4244:             T=float
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(206,93): warning C4244:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(218,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(219,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(227,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(229,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(230,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(234,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(235,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,134): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,134): warning C4244:         with
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,134): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,134): warning C4244:             T=unsigned int
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,134): warning C4244:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,134): warning C4244:         and
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,134): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,134): warning C4244:             T=float
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,134): warning C4244:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,91): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,91): warning C4244:         with
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,91): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,91): warning C4244:             T=unsigned int
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,91): warning C4244:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,91): warning C4244:         and
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,91): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,91): warning C4244:             T=float
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(247,91): warning C4244:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(309,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(310,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(345,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(346,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(350,58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(351,58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(425,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(426,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(430,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(431,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(540,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(541,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(545,58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(546,58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(920,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(931,31): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(933,35): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(933,35): warning C4305:         with
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(933,35): warning C4305:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(933,35): warning C4305:             T=float
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(933,35): warning C4305:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(933,31): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(933,31): warning C4305:         with
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(933,31): warning C4305:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(933,31): warning C4305:             T=float
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(933,31): warning C4305:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(936,27): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(940,31): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(944,32): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,101): warning C4244:         with
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,101): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,101): warning C4244:             T=unsigned int
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,101): warning C4244:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,101): warning C4244:         and
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,101): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,101): warning C4244:             T=float
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,101): warning C4244:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,69): warning C4244:         with
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,69): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,69): warning C4244:             T=unsigned int
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,69): warning C4244:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,69): warning C4244:         and
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,69): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,69): warning C4244:             T=float
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(953,69): warning C4244:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(960,44): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(960,44): warning C4305:         with
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(960,44): warning C4305:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(960,44): warning C4305:             T=float
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(960,44): warning C4305:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(960,39): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(960,39): warning C4305:         with
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(960,39): warning C4305:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(960,39): warning C4305:             T=float
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(960,39): warning C4305:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,92): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,92): warning C4244:         with
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,92): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,92): warning C4244:             T=unsigned int
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,92): warning C4244:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,92): warning C4244:         and
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,92): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,92): warning C4244:             T=float
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,92): warning C4244:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,61): warning C4244:         with
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,61): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,61): warning C4244:             T=unsigned int
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,61): warning C4244:         ]
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,61): warning C4244:         and
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,61): warning C4244:         [
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,61): warning C4244:             T=float
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(1000,61): warning C4244:         ]
   Generating code
-  0 of 281 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  2 of 349 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
