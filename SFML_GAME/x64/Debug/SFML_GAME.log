@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(7,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fiery\source\repos\SFML_GAME\SFML_GAME\main.cpp(13,32): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  SFML_GAME.vcxproj -> C:\Users\fiery\source\repos\SFML_GAME\x64\Debug\SFML_GAME.exe
